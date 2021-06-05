@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started MapSpace with React.js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `yarn install`
+then
 ### `yarn start`
 
 Runs the app in the development mode.\
